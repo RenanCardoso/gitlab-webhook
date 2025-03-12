@@ -8,7 +8,7 @@ Este projeto implementa um servidor Express que recebe webhooks do GitLab e adic
 - **Node.js**: Ambiente de execução JavaScript no servidor.
 - **Express**: Framework para criar o servidor.
 - **Axios**: Biblioteca para fazer requisições HTTP.
-- **dotenv**: Para carregar variáveis de ambiente de um arquivo `.env`.
+- **Dotenv**: Para carregar variáveis de ambiente de um arquivo `.env`.
 - **GitLab API**: Para interagir com o GitLab, adicionando comentários às issues.
 
 ## Funcionalidade
@@ -40,8 +40,8 @@ Este projeto implementa um servidor Express que recebe webhooks do GitLab e adic
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/RenanCardoso/gitlab-webhook.git
+cd gitlab-webhook
 ```
 
 ### 2. Instalando Dependências
