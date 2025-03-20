@@ -129,7 +129,7 @@ Quando o componente tiver muitas variações, apresentar pelo menos uma, e de pr
 - [ ] 4.3. Apresentar exemplos das variações possíveis do componente com leitor de tela ativo.    
 Quando o componente tiver muitas variações, apresentar pelo menos uma, e de preferência em dispositivo físico.
 
-- [ ] 4.4. Apresentar os testes unitários sendo executados localmente e passando com sucesso.
+- [ ] 4.4. Apresentar todos os testes unitários sendo executados localmente e passando com sucesso.
 
 - [ ] 4.5. Apresentar a execução do Typescript.
 
